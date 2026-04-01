@@ -1,16 +1,19 @@
-## Hi there 👋
+# Muhammad 'Ammar Bin Akop
 
-<!--
-**amroll2627/amroll2627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Unix/Linux Engineer based in Kuala Lumpur, Malaysia.
 
-Here are some ideas to get you started:
+## What I work on
+- RHEL / Linux administration
+- Oracle Exadata
+- Storage and NFS troubleshooting
+- Network troubleshooting and validation
+- Automation and operational scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Getting my RHCE Credentials
+- Building practical Linux troubleshooting notes
+- Improving enterprise infrastructure skills
+- Growing my GitHub with real-world technical writeups
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/amroll/
