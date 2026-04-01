@@ -1,4 +1,4 @@
-# Muhammad 'Ammar Bin Akop
+# Muhammad Ammar Bin Akop
 
 Senior Unix/Linux Engineer based in Kuala Lumpur, Malaysia.
 
